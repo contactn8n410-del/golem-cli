@@ -112,6 +112,7 @@ url = { workspace = true }
 uuid = { workspace = true }
 version-compare = { workspace = true }
 wac-graph = { workspace = true }
+rust-mcp-sdk = { version = "0.8", features = ["hyper-server"] }
 walkdir = { workspace = true }
 wax = { workspace = true }
 wasmparser = { workspace = true }

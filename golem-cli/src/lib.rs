@@ -31,6 +31,7 @@ pub mod fuzzy;
 pub mod log;
 pub mod model;
 pub mod validation;
+pub mod mcp_server;
 pub mod wasm_rpc_stubgen;
 
 #[allow(unused)]
